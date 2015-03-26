@@ -11,6 +11,9 @@ body {
     color: #fff;
     background-color: #000;
 }
+.transparent {
+    opacity: 0.4;
+}
 
 html {
     width: 100%;
@@ -147,7 +150,8 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+    /*background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;*/
+    background: url(../img/new_york_city_night_lights-wallpaper-1280x1024.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
