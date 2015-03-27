@@ -1,0 +1,12 @@
+#background {
+    background-image: url(http://corp.zinio.com/assets/0000/0103/lichen/faae17c77a88068d0484debe05ab3b4d.jpg);
+    background-size: cover;       
+}
+#overlay{
+    width:100px;
+    height:1600px;
+    /* Overlay */
+    background:rgba(0,0,0, 0.5);
+    color: white;
+    font-size: 60px;
+}
